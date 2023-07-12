@@ -1,2 +1,4 @@
-<h1 style="background-color: DodgerBlue;">Привет, мир</h1>
-<p style="background-color:Tomato;">Lorem ipsum ...</p>
+p {
+    color: red;
+    text-align: center;
+  }
